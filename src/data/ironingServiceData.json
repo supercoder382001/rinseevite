@@ -1,0 +1,1032 @@
+
+{
+  "title": "Ironing & Pressing Service",
+  "description": "Professional ironing services for your garments",
+  "services": [
+    {
+      "name": "Long Coat",
+      "finalprice": 119,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jeans Flat Front",
+      "finalprice": 12,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Shirt",
+      "finalprice": 17,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Trousers Flat Front",
+      "finalprice": 20,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Kurta",
+      "finalprice": 14,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Sweater",
+      "finalprice": 60,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Woolen Jacket",
+      "finalprice": 99,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Suit (2 Pc)",
+      "finalprice": 105,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Suit (3 Pc)",
+      "finalprice": 125,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Sherwani",
+      "finalprice": 99,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Dhoti Silk",
+      "finalprice": 30,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Dhoti Silk Double",
+      "finalprice": 40,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Blazer",
+      "finalprice": 90,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Dhoti Single",
+      "finalprice": 20,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Coat/Blazer",
+      "finalprice": 99,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jeans Crease Front",
+      "finalprice": 14,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Safari Shirt & Pant",
+      "finalprice": 49,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Trousers Crease Front",
+      "finalprice": 25,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Indo Western",
+      "finalprice": 344,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Kurta ( Silk )",
+      "finalprice": 89,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Kurta Heavy",
+      "finalprice": 110,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Track Pant",
+      "finalprice": 44,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Blouse",
+      "finalprice": 49,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Shawl - Pashmina",
+      "finalprice": 339,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jacket Puffer Long",
+      "finalprice": 189,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Pyjama",
+      "finalprice": 49,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "T-Shirt",
+      "finalprice": 20,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Dress",
+      "finalprice": 74,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Tuxedo ( 3 pcs )",
+      "finalprice": 398,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Waist Coat",
+      "finalprice": 74,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Sweater - Full Sleeve",
+      "finalprice": 99,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Sweater - Sleeveless",
+      "finalprice": 84,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Shawl - Toosh",
+      "finalprice": 499,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Shawl/Lohi",
+      "finalprice": 99,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jacket Leather",
+      "finalprice": 399,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jacket Normal Short",
+      "finalprice": 99,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jacket Rexine",
+      "finalprice": 149,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jacket Puffer Short",
+      "finalprice": 139,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Blouse Heavy Work",
+      "finalprice": 64,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Blouse Designer",
+      "finalprice": 79,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Blouse Normal",
+      "finalprice": 34,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Coat - Short",
+      "finalprice": 89,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Lehenga Designer",
+      "finalprice": 359,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jacket Normal Short",
+      "finalprice": 99,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jacket Puffer Long",
+      "finalprice": 189,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Lehenga Medium Work",
+      "finalprice": 209,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jeans Crease Front",
+      "finalprice": 14,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "T-Shirt",
+      "finalprice": 20,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jeans Flat Front",
+      "finalprice": 12,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Shirt",
+      "finalprice": 17,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Dupatta",
+      "finalprice": 49,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jumpsuit",
+      "finalprice": 30,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Saree Plain",
+      "finalprice": 89,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jacket Leather",
+      "finalprice": 399,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jacket Puffer Short",
+      "finalprice": 149,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Waist Coat",
+      "finalprice": 59,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Bath Towel",
+      "finalprice": 29,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Bed Sheet Double",
+      "finalprice": 99,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Bed Sheet Single",
+      "finalprice": 59,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Hand Towel",
+      "finalprice": 24,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Blanket Double",
+      "finalprice": 224,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Blanket Single",
+      "finalprice": 174,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Shrug",
+      "finalprice": 59,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Quilt ( Single )",
+      "finalprice": 224,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Sofa cover - \r\nLace ( Single )",
+      "finalprice": 189,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Kurta",
+      "finalprice": 16,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Coat / Blazer",
+      "finalprice": 89,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Shirt",
+      "finalprice": 14,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Cotton Frock",
+      "finalprice": 20,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Blouse/Top",
+      "finalprice": 29,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Dress",
+      "finalprice": 59,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Dress (Heavy)",
+      "finalprice": 149,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Ethnic Kurta Set",
+      "finalprice": 89,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Ethnic Wear (Normal / Heavy work)",
+      "finalprice": 99,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jumpsuit",
+      "finalprice": 16,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jacket",
+      "finalprice": 74,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Sweater (Sleeveless)",
+      "finalprice": 54,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Sweater (Full Sleeves)",
+      "finalprice": 59,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Suit 3 Pc",
+      "finalprice": 89,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Suit 2 Pc",
+      "finalprice": 79,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Pyjama",
+      "finalprice": 22,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Frock",
+      "finalprice": 20,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Designer Frock",
+      "finalprice": 49,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Blouse",
+      "finalprice": 19,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Table Cloth Small",
+      "finalprice": 44,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Table Cloth Big",
+      "finalprice": 74,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Sofa cover - \r\nNormal ( Single )",
+      "finalprice": 172,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Shorts",
+      "finalprice": 10,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Shorts",
+      "finalprice": 10,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Shorts",
+      "finalprice": 19,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jeans",
+      "finalprice": 19,
+      "category": "Kids",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Dhoti Double",
+      "finalprice": 30,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Track Suit",
+      "finalprice": 89,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Tuxedo Designer ( 3 pcs )",
+      "finalprice": 498,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jacket Normal Long",
+      "finalprice": 124,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jacket Rexine",
+      "finalprice": 119,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Choli",
+      "finalprice": 149,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Pants",
+      "finalprice": 24,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Blazer/Coat Long",
+      "finalprice": 199,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Blazer/Coat Short",
+      "finalprice": 124,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Dress (Cotton)",
+      "finalprice": 109,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "SweatShirt/Jumper",
+      "finalprice": 99,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Coat - Long",
+      "finalprice": 114,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Dress (Heavy)",
+      "finalprice": 224,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Dress Indo Western",
+      "finalprice": 349,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Ladies Suit (2 Pc)",
+      "finalprice": 149,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Ladies Suit (3 Pc)",
+      "finalprice": 199,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Lehenga Heavy Work",
+      "finalprice": 239,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Choli + \r\nLehenga + Dupatta",
+      "finalprice": 349,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Muffler (Woolen/\r\nPashmina)",
+      "finalprice": 109,
+      "category": "Men",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Lehenga Normal Work",
+      "finalprice": 179,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Lehenga / Flared Skirt",
+      "finalprice": 179,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Lehenga / Ghagra",
+      "finalprice": 199,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Salwar / Churidar 3 Pcs",
+      "finalprice": 149,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Anarkali Suit - Heavy",
+      "finalprice": 199,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Anarkali Suit - Light",
+      "finalprice": 149,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Saree Designer",
+      "finalprice": 179,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Silk Saree",
+      "finalprice": 119,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Jacket Normal Long\n",
+      "finalprice": 124,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Dupatta Heavy Work",
+      "finalprice": 74,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Kameez - Silk",
+      "finalprice": 25,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Sharara",
+      "finalprice": 70,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Night Dress",
+      "finalprice": 47,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Designer Choli + \r\nLehenga + Dupatta",
+      "finalprice": 749,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Saree\r\n(Embroidered/Heavy)",
+      "finalprice": 169,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Sweater  -  Full Sleeve",
+      "finalprice": 99,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Saree \r\n( Cotton / Synthetic)",
+      "finalprice": 99,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Cardigan - Sleeveless",
+      "finalprice": 84,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Cardigan - Full Sleeve",
+      "finalprice": 99,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Sweater  -  Sleeveless",
+      "finalprice": 84,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Shawl Pashmina",
+      "finalprice": 349,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Shawl Shahtoosh",
+      "finalprice": 449,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Shawl Woolen",
+      "finalprice": 149,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Gown Long Heavy work",
+      "finalprice": 179,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Gown Long Normal",
+      "finalprice": 119,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Gown Short Heavy Work",
+      "finalprice": 149,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Gown Short Normal",
+      "finalprice": 89,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Palazo Pant",
+      "finalprice": 69,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Stole / Scarf",
+      "finalprice": 44,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Socks Pair",
+      "finalprice": 14,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Socks Pair",
+      "finalprice": 14,
+      "category": "Women",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Bath Mat ( Large )",
+      "finalprice": 44,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Bath Mat ( Small )",
+      "finalprice": 24,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Bath Robe ( Medium )",
+      "finalprice": 34,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Bath Robe ( Big )",
+      "finalprice": 44,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Bath Robe ( Small )",
+      "finalprice": 29,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Bed Cover Double",
+      "finalprice": 174,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Bed Cover Single",
+      "finalprice": 124,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Curtain - Embroidery \r\nWork [Per Panel]",
+      "finalprice": 134,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Curtain - Cotton \r\n[Per Panel]",
+      "finalprice": 114,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Curtain - Lace \r\n[Per Panel]",
+      "finalprice": 144,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Curtain - With Lining\r\n[Per Panel]",
+      "finalprice": 174,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Curtain - Without \r\nLining [ Per Panel ]",
+      "finalprice": 119,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Cushion Cover \r\n( Medium )",
+      "finalprice": 44,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Cushion Cover \nEmbroidery (Any Size)",
+      "finalprice": 84,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Pillow Cover - \nCotton / Terry Cotton",
+      "finalprice": 34,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Pillow Cover - Embroidery",
+      "finalprice": 49,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Pillow Cover 2 pc",
+      "finalprice": 29,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Quilt ( Double )",
+      "finalprice": 274,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Cushion Cover\r\n( Small )",
+      "finalprice": 34,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Quilt Cover ( Double )",
+      "finalprice": 174,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Quilt Cover ( Single )",
+      "finalprice": 119,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Razai",
+      "finalprice": 234,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Cushion Cover \r\n( Large )",
+      "finalprice": 59,
+      "category": "Household",
+      "type": "Steam Iron"
+    },
+    {
+      "name": "Sofa cover - \r\nEmbroidery ( Single )",
+      "finalprice": 234,
+      "category": "Household",
+      "type": "Steam Iron"
+    }
+  ],
+  "pricingItems": [
+    {
+      "name": "Standard Ironing",
+      "price": "From ₹20 per item",
+      "description": "Professional ironing for everyday clothing items."
+    },
+    {
+      "name": "Premium Ironing",
+      "price": "From ₹40 per item",
+      "description": "Detailed ironing for formal wear and complex garments."
+    },
+    {
+      "name": "Bulk Service",
+      "price": "From ₹15 per item",
+      "description": "Special rates for large quantities of items."
+    }
+  ],
+  "processSteps": [
+    {
+      "title": "Inspection & Organization",
+      "description": "We carefully inspect each garment for special care needs and organize items by fabric type."
+    },
+    {
+      "title": "Steam Treatment",
+      "description": "Items are lightly sprayed or steamed to prepare them for optimal ironing results."
+    },
+    {
+      "title": "Professional Pressing",
+      "description": "Each garment is expertly pressed with attention to details like pleats, cuffs, and collars."
+    },
+    {
+      "title": "Finishing & Packaging",
+      "description": "Your crisply ironed items are hung or folded as appropriate and packaged for delivery."
+    }
+  ]
+}

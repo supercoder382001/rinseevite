@@ -1,0 +1,468 @@
+
+{
+  "title": "Wash & Iron Service",
+  "description": "Professional washing and ironing services for your garments",
+  "processSteps": [
+    {
+      "title": "Collection & Sorting",
+      "description": "We collect your garments and carefully sort them by fabric type, color, and washing requirements."
+    },
+    {
+      "title": "Washing & Treatment",
+      "description": "Your clothes are washed with premium detergents at the optimal temperature, with stain treatment as needed."
+    },
+    {
+      "title": "Professional Ironing",
+      "description": "Each item is professionally ironed with precision, paying special attention to collars, cuffs, and pleats."
+    },
+    {
+      "title": "Quality Check & Delivery",
+      "description": "After a thorough quality inspection, your fresh, crisp garments are neatly packaged for delivery."
+    }
+  ],
+  "pricingItems": [
+    {
+      "name": "Basic Wash & Iron",
+      "price": "$4.50 per item",
+      "description": "Professional washing and precise ironing for everyday garments."
+    },
+    {
+      "name": "Express Service",
+      "price": "$6.50 per item",
+      "description": "Quick turnaround for when you need your clothes faster."
+    },
+    {
+      "name": "Premium Care",
+      "price": "$8.50 per item",
+      "description": "Extra attention for formal and delicate garments requiring special care."
+    }
+  ],
+  "services": [
+    {
+      "name": "Muffler",
+      "finalprice": 30,
+      "category": "Men",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Shalya/Shawl",
+      "finalprice": 35,
+      "category": "Men",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Shirt",
+      "finalprice": 35,
+      "category": "Men",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Jeans Crease",
+      "finalprice": 50,
+      "category": "Men",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Jeans Flat Front",
+      "finalprice": 45,
+      "category": "Men",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Trackpant",
+      "finalprice": 50,
+      "category": "Men",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "LongCoat",
+      "finalprice": 200,
+      "category": "Men",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Dhoti",
+      "finalprice": 50,
+      "category": "Men",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Pyjama",
+      "finalprice": 35,
+      "category": "Men",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Kurta (Top)",
+      "finalprice": 35,
+      "category": "Men",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Trousers Flat Front",
+      "finalprice": 35,
+      "category": "Men",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Trousers Crease",
+      "finalprice": 40,
+      "category": "Men",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "T-Shirt",
+      "finalprice": 30,
+      "category": "Men",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Shirt",
+      "finalprice": 35,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "T-Shirt",
+      "finalprice": 30,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Kurta",
+      "finalprice": 40,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Pyjama",
+      "finalprice": 35,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Sweatshirt",
+      "finalprice": 80,
+      "category": "Men",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Petticoat",
+      "finalprice": 30,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Night Gown",
+      "finalprice": 40,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Jeans",
+      "finalprice": 30,
+      "category": "Kids",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Shorts",
+      "finalprice": 25,
+      "category": "Kids",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Jeans Crease Front",
+      "finalprice": 50,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Blouse",
+      "finalprice": 30,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Waist Coat",
+      "finalprice": 100,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Skirt",
+      "finalprice": 35,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Salwar",
+      "finalprice": 35,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Dupatta",
+      "finalprice": 30,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Cardigan",
+      "finalprice": 90,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Jumpsuit",
+      "finalprice": 90,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Trouser Crease Front",
+      "finalprice": 40,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Trouser Flat Front",
+      "finalprice": 35,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Jeggings",
+      "finalprice": 45,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Saree Plain",
+      "finalprice": 90,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Saree Plain - 2 Fold",
+      "finalprice": 75,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Scarf",
+      "finalprice": 25,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Shawl/Stole",
+      "finalprice": 35,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Jacket",
+      "finalprice": 175,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Saree - Zaree",
+      "finalprice": 140,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Trousers",
+      "finalprice": 30,
+      "category": "Kids",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "T-Shirt",
+      "finalprice": 25,
+      "category": "Kids",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Shirt",
+      "finalprice": 25,
+      "category": "Kids",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Kurta",
+      "finalprice": 25,
+      "category": "Kids",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Jumpsuit",
+      "finalprice": 30,
+      "category": "Kids",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Jacket",
+      "finalprice": 125,
+      "category": "Kids",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Dress/Frock",
+      "finalprice": 40,
+      "category": "Kids",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Girls Choli",
+      "finalprice": 30,
+      "category": "Kids",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Coat/Blazer",
+      "finalprice": 150,
+      "category": "Kids",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Bath Towel",
+      "finalprice": 50,
+      "category": "Household",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Bed Sheet Double",
+      "finalprice": 80,
+      "category": "Household",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Bed Sheet Single",
+      "finalprice": 50,
+      "category": "Household",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Cushion Cover",
+      "finalprice": 30,
+      "category": "Household",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Girls Lehenga",
+      "finalprice": 50,
+      "category": "Kids",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Curtain > 9 ft",
+      "finalprice": 200,
+      "category": "Household",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Hand Towel",
+      "finalprice": 25,
+      "category": "Household",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Pillow Cover Single",
+      "finalprice": 25,
+      "category": "Household",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Table Cloth",
+      "finalprice": 50,
+      "category": "Household",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Table Mat",
+      "finalprice": 25,
+      "category": "Household",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Blanket Double",
+      "finalprice": 150,
+      "category": "Household",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Quilt Double",
+      "finalprice": 150,
+      "category": "Household",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Quilt Single",
+      "finalprice": 120,
+      "category": "Household",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Curtain 6-9 ft",
+      "finalprice": 125,
+      "category": "Household",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Curtain < 6 ft",
+      "finalprice": 75,
+      "category": "Household",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Blanket Cover Double",
+      "finalprice": 125,
+      "category": "Household",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Blanket Cover Single",
+      "finalprice": 75,
+      "category": "Household",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Dress",
+      "finalprice": 75,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Shorts/Capris",
+      "finalprice": 30,
+      "category": "Men",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Jeans Flat Front",
+      "finalprice": 40,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Leggings",
+      "finalprice": 30,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Longcoat",
+      "finalprice": 150,
+      "category": "Women",
+      "type": "Wash & Iron"
+    },
+    {
+      "name": "Blanket Single",
+      "finalprice": 100,
+      "category": "Household",
+      "type": "Wash & Iron"
+    }
+  ]
+}

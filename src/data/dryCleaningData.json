@@ -1,0 +1,1050 @@
+
+{
+  "title": "Dry Cleaning Service",
+  "description": "Professional dry cleaning for your valuable and delicate garments",
+  "processSteps": [
+    {
+      "title": "Inspection & Tagging",
+      "description": "We carefully inspect each garment for stains, damages, and specific care requirements before tagging them."
+    },
+    {
+      "title": "Pre-treatment",
+      "description": "Specialized pre-treatments are applied to stains and problem areas to ensure best cleaning results."
+    },
+    {
+      "title": "Dry Cleaning Process",
+      "description": "Using professional-grade solvents and equipment, we gently clean your garments without water."
+    },
+    {
+      "title": "Finishing & Packaging",
+      "description": "Each item is pressed, steamed, and inspected before being packaged for delivery or pickup."
+    }
+  ],
+  "pricingItems": [
+    {
+      "name": "Regular Dry Cleaning",
+      "price": "From $6.95",
+      "description": "Standard dry cleaning for most common garments."
+    },
+    {
+      "name": "Premium Dry Cleaning",
+      "price": "From $12.95",
+      "description": "For high-end designer garments and delicate fabrics requiring extra care."
+    },
+    {
+      "name": "Express Service",
+      "price": "Regular price +50%",
+      "description": "Same-day or next-day service available for urgent needs."
+    }
+  ],
+  "services": [
+    {
+      "name": "Shirt",
+      "finalprice": 104,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Suit (2 Pc)",
+      "finalprice": 314,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Suit (3 Pc)",
+      "finalprice": 449,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Sherwani",
+      "finalprice": 275,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Dhoti Silk Double",
+      "finalprice": 219,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jeans Flat Front",
+      "finalprice": 144,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Pyjama",
+      "finalprice": 89,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Trousers Flat Front",
+      "finalprice": 119,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "T-Shirt",
+      "finalprice": 99,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Kurta",
+      "finalprice": 124,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Sweater",
+      "finalprice": 229,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Dhoti Silk Double",
+      "finalprice": 174,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Blazer",
+      "finalprice": 279,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Dhoti Double",
+      "finalprice": 119,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Dhoti Single",
+      "finalprice": 99,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jeans Crease Front",
+      "finalprice": 149,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Long Coat",
+      "finalprice": 329,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Trousers Crease Front",
+      "finalprice": 129,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Coat",
+      "finalprice": 279,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Indo Western",
+      "finalprice": 599,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Kurta ( Silk )",
+      "finalprice": 199,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Kurta Heavy",
+      "finalprice": 229,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Track Pant",
+      "finalprice": 94,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Track Suit",
+      "finalprice": 179,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Tuxedo ( 3 pcs )",
+      "finalprice": 699,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Tuxedo Designer ( 3 pcs )",
+      "finalprice": 849,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Waist Coat",
+      "finalprice": 149,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jumper",
+      "finalprice": 179,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Sweater - Full Sleeve",
+      "finalprice": 189,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Sweater - Sleeveless",
+      "finalprice": 179,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Shawl - Toosh",
+      "finalprice": 349,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Shawl - Pashmina",
+      "finalprice": 249,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jacket Leather",
+      "finalprice": 499,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jacket Normal Long",
+      "finalprice": 249,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jacket Puffer Long",
+      "finalprice": 349,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jacket Puffer Short",
+      "finalprice": 249,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Blazer/Coat Long",
+      "finalprice": 349,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Shawl/Lohi",
+      "finalprice": 189,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Blouse",
+      "finalprice": 89,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Dress",
+      "finalprice": 149,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Saree Plain",
+      "finalprice": 179,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Dress (Cotton)",
+      "finalprice": 219,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jacket Leather",
+      "finalprice": 499,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jacket Normal Short",
+      "finalprice": 199,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jacket Normal Long",
+      "finalprice": 249,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jacket Rexine",
+      "finalprice": 249,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jacket Puffer Long",
+      "finalprice": 349,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Muffler (Woolen/Pashmina)",
+      "finalprice": 199,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Blouse Heavy Work",
+      "finalprice": 129,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Blouse Designer",
+      "finalprice": 159,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Blouse Normal",
+      "finalprice": 69,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Designer Choli + Lehenga + Dupatta",
+      "finalprice": 849,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Lehenga Designer",
+      "finalprice": 659,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Choli",
+      "finalprice": 289,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Dress (Heavy)",
+      "finalprice": 449,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Dress Indo Western",
+      "finalprice": 599,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Coat - Long",
+      "finalprice": 229,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Coat - Short",
+      "finalprice": 169,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Ladies Suit (2 Pc)",
+      "finalprice": 299,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Ladies Suit (3 Pc)",
+      "finalprice": 399,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Lehenga Heavy Work",
+      "finalprice": 469,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Lehenga Medium Work",
+      "finalprice": 419,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Lehenga Normal Work",
+      "finalprice": 359,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Lehenga / Flared Skirt",
+      "finalprice": 359,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Lehenga / Ghagra",
+      "finalprice": 399,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Salwar / Churidar 3 Pcs",
+      "finalprice": 299,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Anarkali Suit - Heavy",
+      "finalprice": 699,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Anarkali Suit - Light",
+      "finalprice": 449,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Saree Designer",
+      "finalprice": 599,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Silk Saree",
+      "finalprice": 299,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Dupatta Heavy Work",
+      "finalprice": 149,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Kameez - Silk",
+      "finalprice": 199,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Sweater  -  Full Sleeve",
+      "finalprice": 199,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Shorts",
+      "finalprice": 99,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Shirt",
+      "finalprice": 104,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "T-Shirt",
+      "finalprice": 99,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jeans Crease Front",
+      "finalprice": 149,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jeans Flat Front",
+      "finalprice": 144,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Waist Coat",
+      "finalprice": 129,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jumpsuit",
+      "finalprice": 99,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Bath Towel",
+      "finalprice": 59,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Bed Sheet Double",
+      "finalprice": 199,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Kameez Silk - heavy",
+      "finalprice": 279,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Sharara",
+      "finalprice": 129,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Night Dress",
+      "finalprice": 99,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Saree\r\n(Embroidered/Heavy)",
+      "finalprice": 349,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Cardigan - Full Sleeve",
+      "finalprice": 199,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Sweater  -  Sleeveless",
+      "finalprice": 169,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Cardigan - Sleeveless",
+      "finalprice": 169,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Shawl Pashmina",
+      "finalprice": 549,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Shawl Shahtoosh",
+      "finalprice": 599,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Shawl Woolen",
+      "finalprice": 349,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Shrug",
+      "finalprice": 129,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Gown Long Heavy work",
+      "finalprice": 359,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Gown Long Normal",
+      "finalprice": 239,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Gown Short Heavy Work",
+      "finalprice": 299,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Gown Short Normal",
+      "finalprice": 179,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Palazo Pant",
+      "finalprice": 139,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Stole / Scarf",
+      "finalprice": 89,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Socks Pair",
+      "finalprice": 29,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Socks Pair",
+      "finalprice": 29,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Bath Mat ( Large )",
+      "finalprice": 89,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Bath Mat ( Small )",
+      "finalprice": 49,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Bath Robe ( Medium )",
+      "finalprice": 69,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Bath Robe ( Big )",
+      "finalprice": 89,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Bath Robe ( Small )",
+      "finalprice": 59,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Bed Cover Double",
+      "finalprice": 349,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Bed Cover Single",
+      "finalprice": 249,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Cushion Cover\r\n( Small )",
+      "finalprice": 69,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Cushion Cover \r\nEmbroidery (Any Size)",
+      "finalprice": 169,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Cushion Cover \r\n( Medium )",
+      "finalprice": 89,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Pillow Cover - \\nCotton / Terry Cotton",
+      "finalprice": 49,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Curtain - Without \r\nLining [ Per Panel ]",
+      "finalprice": 239,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Curtain - With Lining\r\n[Per Panel]",
+      "finalprice": 349,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Curtain - Lace \r\n[Per Panel]",
+      "finalprice": 289,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Curtain - Embroidery \r\nWork [Per Panel]",
+      "finalprice": 269,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Sofa cover - \r\nLace ( Single )",
+      "finalprice": 399,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Sofa cover - \r\nNormal ( Single )",
+      "finalprice": 349,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Table Cloth Big",
+      "finalprice": 149,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Bed Sheet Single",
+      "finalprice": 119,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Hand Towel",
+      "finalprice": 49,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Blanket Double",
+      "finalprice": 449,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Blanket Single",
+      "finalprice": 349,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Curtain - Cotton \r\n[Per Panel]",
+      "finalprice": 229,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Pillow Cover - Embroidery",
+      "finalprice": 99,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Pillow Cover 2 pc",
+      "finalprice": 69,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Quilt ( Double )",
+      "finalprice": 549,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Quilt ( Single )",
+      "finalprice": 449,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Quilt Cover ( Double )",
+      "finalprice": 349,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Quilt Cover ( Single )",
+      "finalprice": 249,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Razai",
+      "finalprice": 449,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Sofa cover - \r\nEmbroidery ( Single )",
+      "finalprice": 479,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Table Cloth Small",
+      "finalprice": 89,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Blouse",
+      "finalprice": 39,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Blouse/Top",
+      "finalprice": 69,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Coat / Blazer",
+      "finalprice": 149,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Cotton Frock",
+      "finalprice": 149,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Designer Frock",
+      "finalprice": 299,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Dress",
+      "finalprice": 119,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Dress (Heavy)",
+      "finalprice": 249,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Ethnic Kurta Set",
+      "finalprice": 199,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Ethnic Wear (Normal / Heavy work)",
+      "finalprice": 299,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Frock",
+      "finalprice": 119,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Shorts",
+      "finalprice": 99,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Shorts",
+      "finalprice": 49,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Dupatta",
+      "finalprice": 99,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jeans",
+      "finalprice": 65,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "T-Shirt",
+      "finalprice": 69,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Shirt",
+      "finalprice": 55,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Kurta",
+      "finalprice": 39,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jumpsuit",
+      "finalprice": 29,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jacket",
+      "finalprice": 149,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jacket Rexine",
+      "finalprice": 249,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Saree \r\n( Cotton / Synthetic)",
+      "finalprice": 199,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Cushion Cover \r\n( Large )",
+      "finalprice": 119,
+      "category": "Household",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Pyjama",
+      "finalprice": 45,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Suit 2 Pc",
+      "finalprice": 239,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Suit 3 Pc",
+      "finalprice": 299,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Sweater (Full Sleeves)",
+      "finalprice": 129,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Sweater (Sleeveless)",
+      "finalprice": 109,
+      "category": "Kids",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Woolen Jacket",
+      "finalprice": 229,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Safari Shirt & Pant",
+      "finalprice": 229,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Sweatshirt",
+      "finalprice": 179,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jacket Normal Short",
+      "finalprice": 199,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Jacket Puffer Short",
+      "finalprice": 249,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Choli + Lehenga + Dupatta",
+      "finalprice": 499,
+      "category": "Women",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Sherwani Heavy",
+      "finalprice": 499,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    },
+    {
+      "name": "Blazer/Coat Short",
+      "finalprice": 249,
+      "category": "Men",
+      "type": "Dry Cleaning"
+    }
+  ]
+}

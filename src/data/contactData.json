@@ -1,0 +1,25 @@
+
+{
+  "contactInfo": [
+    {
+      "title": "Our Location",
+      "icon": "MapPin",
+      "details": ["60 Chandu Park", "Delhi, 110051"]
+    },
+    {
+      "title": "Phone Number",
+      "icon": "Phone",
+      "details": ["+ 91 7428160047", "+91 8800677646"]
+    },
+    {
+      "title": "Email Address",
+      "icon": "Mail",
+      "details": ["info@rinsee.in", "support@rinsee.in"]
+    },
+    {
+      "title": "Business Hours",
+      "icon": "Clock",
+      "details": ["Monday-Friday: 8am-7pm", "Saturday: 9am-5pm", "Sunday: Closed"]
+    }
+  ]
+}

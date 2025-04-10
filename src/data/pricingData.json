@@ -1,0 +1,86 @@
+
+{
+  "washAndIron": {
+    "title": "Wash & Iron Service",
+    "description": "Professional washing and ironing services for your garments",
+    "services": [
+      {
+        "serviceType": "Standard Service",
+        "item": "Shirts/T-shirts",
+        "price": "$4.50 each",
+        "turnaroundTime": "48 hours"
+      },
+      {
+        "serviceType": "Standard Service",
+        "item": "Pants/Jeans",
+        "price": "$5.50 each",
+        "turnaroundTime": "48 hours"
+      },
+      {
+        "serviceType": "Express Service",
+        "item": "Shirts/T-shirts",
+        "price": "$6.50 each",
+        "turnaroundTime": "24 hours"
+      },
+      {
+        "serviceType": "Express Service",
+        "item": "Pants/Jeans",
+        "price": "$7.50 each",
+        "turnaroundTime": "24 hours"
+      },
+      {
+        "serviceType": "Premium Service",
+        "item": "Dress Shirts",
+        "price": "$8.50 each",
+        "turnaroundTime": "48 hours"
+      },
+      {
+        "serviceType": "Premium Service",
+        "item": "Formal Pants",
+        "price": "$9.50 each",
+        "turnaroundTime": "48 hours"
+      },
+      {
+        "serviceType": "Bulk Package",
+        "item": "10+ Items",
+        "price": "10% discount",
+        "turnaroundTime": "72 hours"
+      }
+    ],
+    "pricingItems": [
+      {
+        "name": "Basic Wash & Iron",
+        "price": "$4.50 per item",
+        "description": "Professional washing and precise ironing for everyday garments."
+      },
+      {
+        "name": "Express Service",
+        "price": "$6.50 per item",
+        "description": "Quick turnaround for when you need your clothes faster."
+      },
+      {
+        "name": "Premium Care",
+        "price": "$8.50 per item",
+        "description": "Extra attention for formal and delicate garments requiring special care."
+      }
+    ],
+    "processSteps": [
+      {
+        "title": "Collection & Sorting",
+        "description": "We collect your garments and carefully sort them by fabric type, color, and washing requirements."
+      },
+      {
+        "title": "Washing & Treatment",
+        "description": "Your clothes are washed with premium detergents at the optimal temperature, with stain treatment as needed."
+      },
+      {
+        "title": "Professional Ironing",
+        "description": "Each item is professionally ironed with precision, paying special attention to collars, cuffs, and pleats."
+      },
+      {
+        "title": "Quality Check & Delivery",
+        "description": "After a thorough quality inspection, your fresh, crisp garments are neatly packaged for delivery."
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+
+{
+  "title": "Specialty Care Service",
+  "description": "Expert cleaning and restoration services for your most valuable and delicate items",
+  "processSteps": [
+    {
+      "title": "Consultation & Assessment",
+      "description": "We carefully examine your special items and discuss specific care requirements with you."
+    },
+    {
+      "title": "Specialized Cleaning",
+      "description": "Using specialized techniques and products appropriate for the specific fabric or material."
+    },
+    {
+      "title": "Expert Finishing",
+      "description": "Professional pressing, steaming, and shaping to restore the item to its best condition."
+    },
+    {
+      "title": "Preservation & Packaging",
+      "description": "Carefully packaged using archival-quality materials to maintain condition during storage."
+    }
+  ],
+  "pricingItems": [
+    {
+      "name": "Wedding Dress Cleaning",
+      "price": "From $99.95",
+      "description": "Complete cleaning and preservation service for wedding gowns."
+    },
+    {
+      "name": "Heirloom Textiles",
+      "price": "Custom Quote",
+      "description": "Restoration and preservation of vintage and antique textiles."
+    },
+    {
+      "name": "Leather & Suede",
+      "price": "From $59.95",
+      "description": "Professional cleaning and conditioning for leather and suede items."
+    }
+  ],
+  "services": [
+    {
+      "serviceType": "Wedding Attire",
+      "item": "Wedding Dress (Simple)",
+      "price": "$99.95 each",
+      "turnaroundTime": "10-14 days"
+    },
+    {
+      "serviceType": "Wedding Attire",
+      "item": "Wedding Dress (Detailed)",
+      "price": "$149.95 each",
+      "turnaroundTime": "10-14 days"
+    },
+    {
+      "serviceType": "Wedding Attire",
+      "item": "Wedding Dress (Designer/Complex)",
+      "price": "$199.95+ each",
+      "turnaroundTime": "14-21 days"
+    },
+    {
+      "serviceType": "Wedding Attire",
+      "item": "Wedding Dress Preservation",
+      "price": "$249.95+ each",
+      "turnaroundTime": "21-30 days"
+    },
+    {
+      "serviceType": "Wedding Attire",
+      "item": "Bridesmaid Dresses",
+      "price": "$69.95 each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Wedding Attire",
+      "item": "Veil Cleaning",
+      "price": "$39.95 each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Wedding Attire",
+      "item": "Wedding Suit/Tuxedo",
+      "price": "$49.95 each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Formal Attire",
+      "item": "Evening Gowns (Simple)",
+      "price": "$49.95 each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Formal Attire",
+      "item": "Evening Gowns (Beaded/Sequined)",
+      "price": "$69.95 each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Formal Attire",
+      "item": "Evening Gowns (Designer)",
+      "price": "$89.95+ each",
+      "turnaroundTime": "10-14 days"
+    },
+    {
+      "serviceType": "Formal Attire",
+      "item": "Prom Dresses",
+      "price": "$49.95 each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Formal Attire",
+      "item": "Quinceañera Dresses",
+      "price": "$69.95 each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Leather & Suede",
+      "item": "Leather Jackets",
+      "price": "$59.95 each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Leather & Suede",
+      "item": "Leather Pants",
+      "price": "$59.95 each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Leather & Suede",
+      "item": "Leather Skirts",
+      "price": "$49.95 each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Leather & Suede",
+      "item": "Suede Jackets",
+      "price": "$69.95 each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Leather & Suede",
+      "item": "Suede Accessories",
+      "price": "$29.95+ each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Leather & Suede",
+      "item": "UGG Boots",
+      "price": "$39.95 pair",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Fur Items",
+      "item": "Fur Coats",
+      "price": "$89.95+ each",
+      "turnaroundTime": "10-14 days"
+    },
+    {
+      "serviceType": "Fur Items",
+      "item": "Fur Collars",
+      "price": "$39.95 each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Fur Items",
+      "item": "Fur-Lined Items",
+      "price": "$69.95+ each",
+      "turnaroundTime": "10-14 days"
+    },
+    {
+      "serviceType": "Fur Items",
+      "item": "Fur Storage (Seasonal)",
+      "price": "$99.95+ per season",
+      "turnaroundTime": "N/A"
+    },
+    {
+      "serviceType": "Household Textiles",
+      "item": "Curtains (per panel)",
+      "price": "$24.95+ each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Household Textiles",
+      "item": "Drapes (per panel)",
+      "price": "$29.95+ each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Household Textiles",
+      "item": "Area Rugs (per sq ft)",
+      "price": "$1.95 per sq ft",
+      "turnaroundTime": "10-14 days"
+    },
+    {
+      "serviceType": "Household Textiles",
+      "item": "Persian/Oriental Rugs",
+      "price": "$4.95+ per sq ft",
+      "turnaroundTime": "14-21 days"
+    },
+    {
+      "serviceType": "Household Textiles",
+      "item": "Antique Linens",
+      "price": "Custom quote",
+      "turnaroundTime": "14-21 days"
+    },
+    {
+      "serviceType": "Household Textiles",
+      "item": "Tapestries",
+      "price": "$99.95+ each",
+      "turnaroundTime": "14-21 days"
+    },
+    {
+      "serviceType": "Designer Items",
+      "item": "Designer Dresses",
+      "price": "$69.95+ each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Designer Items",
+      "item": "Designer Suits",
+      "price": "$89.95+ each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Designer Items",
+      "item": "Designer Coats",
+      "price": "$79.95+ each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Designer Items",
+      "item": "Designer Accessories",
+      "price": "$29.95+ each",
+      "turnaroundTime": "7-10 days"
+    },
+    {
+      "serviceType": "Heirloom/Vintage",
+      "item": "Vintage Clothing",
+      "price": "Custom quote",
+      "turnaroundTime": "14-21 days"
+    },
+    {
+      "serviceType": "Heirloom/Vintage",
+      "item": "Heirloom Textiles",
+      "price": "Custom quote",
+      "turnaroundTime": "14-21 days"
+    },
+    {
+      "serviceType": "Heirloom/Vintage",
+      "item": "Antique Quilts",
+      "price": "Custom quote",
+      "turnaroundTime": "21-30 days"
+    },
+    {
+      "serviceType": "Heirloom/Vintage",
+      "item": "Christening Gowns",
+      "price": "$69.95+ each",
+      "turnaroundTime": "10-14 days"
+    },
+    {
+      "serviceType": "Restoration Services",
+      "item": "Stain Removal (Advanced)",
+      "price": "$25.00+ per stain",
+      "turnaroundTime": "7-14 days"
+    },
+    {
+      "serviceType": "Restoration Services",
+      "item": "Color Restoration",
+      "price": "Custom quote",
+      "turnaroundTime": "14-21 days"
+    },
+    {
+      "serviceType": "Restoration Services",
+      "item": "Embroidery Repair",
+      "price": "Custom quote",
+      "turnaroundTime": "14-21 days"
+    },
+    {
+      "serviceType": "Restoration Services",
+      "item": "Textile Preservation",
+      "price": "Custom quote",
+      "turnaroundTime": "21-30 days"
+    }
+  ]
+}
